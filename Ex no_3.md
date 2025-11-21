@@ -15,7 +15,7 @@ To write a C program to find number of years based on principle,rate & simple in
 ## Program:
 ```
 /*
-Program to initialize the value as 5.8 & display the same.
+
 Developed by: Aparna RB
 RegisterNumber: 212222220005
 */
