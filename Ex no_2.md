@@ -15,6 +15,11 @@ To write a program to check whether the attendance is PRESENT using simple if st
 8. End.  
 
 ## Program:
+/*
+Program to initialize the value as 5.8 & display the same.
+Developed by: Aparna RB
+RegisterNumber: 212222220005
+*/
 ```
 #include<stdio.h> 
 int main(){ 
