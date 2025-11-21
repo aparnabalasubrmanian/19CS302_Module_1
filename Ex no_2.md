@@ -17,7 +17,6 @@ To write a program to check whether the attendance is PRESENT using simple if st
 ## Program:
 ```
 /*
-Program to initialize the value as 5.8 & display the same.
 Developed by: Aparna RB
 RegisterNumber: 212222220005
 */
