@@ -17,7 +17,6 @@ To write a C program to read the age of a person and determine whether he is eli
 ## Program:
 ```
 /*
-Program to initialize the value as 5.8 & display the same.
 Developed by: Aparna RB
 RegisterNumber:  212222220005
 */
