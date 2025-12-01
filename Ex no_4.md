@@ -20,19 +20,21 @@ To write a C program to read the age of a person and determine whether he is eli
 Developed by: Aparna RB
 RegisterNumber:  212222220005
 */
-#include<stdio.h> 
-int main(){ 
-char p1; 
-scanf("%c", &p1); 
-if(p1=='P') 
-{ 
-printf("Present"); 
-} 
-return 0; 
+#include<stdio.h>
+int main()
+{
+    int a;
+    scanf("%d",&a);
+    if(a>=21)
+    {
+        printf("He is eligible for marriage");
+    }
+    return 0;
 }
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/d71a7160-d610-4c9e-99ac-f3a09c2f279f)
+<img width="1273" height="365" alt="image" src="https://github.com/user-attachments/assets/6efbc904-a54a-47c7-9c23-5d80114c903c" />
+
 
 ## Result:
 Thus the program was executed and the output was verified successfully.
